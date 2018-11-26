@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "61133298986",
+    "firebase_url": "https://annualprofitsharecalculator.firebaseio.com",
+    "project_id": "annualprofitsharecalculator",
+    "storage_bucket": "annualprofitsharecalculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61133298986:android:523f08af9438db44",
+        "android_client_info": {
+          "package_name": "com.example.nutz.romero_finalslab2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61133298986-7c15mac6sefr6raroojsg172i5ka49uf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nutz.romero_finalslab2",
+            "certificate_hash": "629c448a62fbce3a2152acf2c864d0d55c76ce9f"
+          }
+        },
+        {
+          "client_id": "61133298986-repufg474nmaci6drjrl9vhl98imif92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs2xbrlDbp9ISMsEny4xqx1M5oeaqMaLA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61133298986-repufg474nmaci6drjrl9vhl98imif92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
